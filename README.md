@@ -10,10 +10,9 @@ d or right arrow - move boat right
 
 space - release the hook 
 
-
+# 
 Game made with [Tamer](https://github.com/kumchovylcho) and [Petko](https://github.com/petko940)
 
-Made with [Tamer](https://github.com/kumchovylcho)
 
 https://user-images.githubusercontent.com/111090547/212673198-0400f388-2596-4bd8-b01d-f39aed23f46b.mp4
 
